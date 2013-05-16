@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://github.com/threatstack/pigsty-plugin",
+  "repository": "https://github.com/threatstack/pigsty-example-plugin",
   "author": "Threat Stack, Inc",
   "license": "GPLv3",
   "dependencies": {
