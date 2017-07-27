@@ -12,6 +12,7 @@
   "dependencies": {
     "debug": "2.6.8",
     "mysql": "2.14.0",
-    "moment": "2.18.1"
+    "moment": "2.18.1",
+    "pigsty-plugin": "0.1.0"
   }
 }
