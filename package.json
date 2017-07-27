@@ -2,7 +2,7 @@
   "name": "pigsty-sportal",
   "version": "0.1.0",
   "description": "A plugin made by sportal for the pigsty unified2 spooler.",
-  "main": "./index.js",
+  "main": "./lib/pigsty-sportal.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
